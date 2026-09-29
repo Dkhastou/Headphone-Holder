@@ -17,6 +17,8 @@ I used OnShape to make this CAD model. Links to two versions can be accessed her
 
 I did not save every single iteration in CAD as I kept the original prints and had no intention of making this project public until over a year later. As such, these two versions are not the only iterations. They instead mark points in the project where big enough design changes were made such that it was necessary to keep a backup of the original version. 
 
+Viewing the projects natively may be more intutive than viewing the `.stl` files directly in Github as Github will load the CAD model in an orientation that is different from the way the part was designed and is explained in this writeup. 
+
 ## Explaining the CAD model
 
 ### Background
